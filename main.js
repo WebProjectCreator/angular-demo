@@ -18,7 +18,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 81, vars: 0, consts: [[1, "card", "box-shadow-full", "p-md-5", "mt-5", "mb-5"], [1, "card-body"], [1, "row"], [1, "col-lg-6"], [1, "col-md-6", "col-lg-5"], ["alt", "avatar", "src", "../../../assets/images/main_avatar.jpeg", 1, "rounded", "img-fluid"], [1, "col-md-6", "col-lg-7", "pt-3", "pt-md-0"], [1, "about-info"], [1, "title-s"], [1, "text-hidden"], [1, "col-12"], [1, "skill-mf"], [1, "title-s", "mt-sm-3"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "90", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "90%"], ["role", "progressbar", "aria-valuenow", "80", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "80%"], ["role", "progressbar", "aria-valuenow", "60", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "60%"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 81, vars: 0, consts: [[1, "card", "box-shadow-full", "p-md-5", "mt-5", "mb-5"], [1, "card-body"], [1, "row"], [1, "col-lg-6"], [1, "col-md-6", "col-lg-5"], ["alt", "avatar", "src", "assets/images/main_avatar.jpeg", 1, "rounded", "img-fluid"], [1, "col-md-6", "col-lg-7", "pt-3", "pt-md-0"], [1, "about-info"], [1, "title-s"], [1, "text-hidden"], [1, "col-12"], [1, "skill-mf"], [1, "title-s", "mt-sm-3"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "90", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "90%"], ["role", "progressbar", "aria-valuenow", "80", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "80%"], ["role", "progressbar", "aria-valuenow", "60", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "60%"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -316,7 +316,7 @@ class AsoBuilderComponent {
     }
 }
 AsoBuilderComponent.ɵfac = function AsoBuilderComponent_Factory(t) { return new (t || AsoBuilderComponent)(); };
-AsoBuilderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AsoBuilderComponent, selectors: [["app-aso-builder"]], decls: 399, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/aso_builder/aso_builder_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "text-hidden"], [1, "project-explanation", "mt-5"], [1, "alert-comment"], [1, "kbd"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "../../../../assets/images/projects/aso_builder/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "text-italic"], ["src", "../../../../assets/images/projects/aso_builder/general_diagram.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], ["src", "../../../../assets/images/projects/aso_builder/render_monitor.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "mt-2"], [1, "col-12", "offset-md-2", "col-md-8"], [1, "table-responsive"], [1, "table", "table-sm", "table-hover", "table-bordered"], [1, "table-light"], [1, "text-center"], [1, "table-warning"], ["scope", "row"], [1, "table-success"], [1, "mt-4"], [1, "table", "table-sm", "table-hover", "table-bordered", "text-start"], [1, "table-active"], ["scope", "row", "rowspan", "4"], ["scope", "row", "rowspan", "2"], [1, "mb-5"], [1, "container"]], template: function AsoBuilderComponent_Template(rf, ctx) { if (rf & 1) {
+AsoBuilderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AsoBuilderComponent, selectors: [["app-aso-builder"]], decls: 399, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/aso_builder/aso_builder_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "text-hidden"], [1, "project-explanation", "mt-5"], [1, "alert-comment"], [1, "kbd"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "assets/images/projects/aso_builder/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "text-italic"], ["src", "assets/images/projects/aso_builder/general_diagram.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], ["src", "assets/images/projects/aso_builder/render_monitor.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "mt-2"], [1, "col-12", "offset-md-2", "col-md-8"], [1, "table-responsive"], [1, "table", "table-sm", "table-hover", "table-bordered"], [1, "table-light"], [1, "text-center"], [1, "table-warning"], ["scope", "row"], [1, "table-success"], [1, "mt-4"], [1, "table", "table-sm", "table-hover", "table-bordered", "text-start"], [1, "table-active"], ["scope", "row", "rowspan", "4"], ["scope", "row", "rowspan", "2"], [1, "mb-5"], [1, "container"]], template: function AsoBuilderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -943,7 +943,7 @@ class BuilderComponent {
     }
 }
 BuilderComponent.ɵfac = function BuilderComponent_Factory(t) { return new (t || BuilderComponent)(); };
-BuilderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BuilderComponent, selectors: [["app-builder"]], decls: 110, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/builder/builder_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], ["role", "progressbar", "aria-valuenow", "20", "aria-valuemin", "0", "aria-valuemax", "20", 1, "progress-bar", 2, "width", "20%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["href", "../../../../assets/images/projects/builder/landing_page.png", "target", "_blank"], ["src", "../../../../assets/images/projects/builder/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "mb-5"], [1, "container"]], template: function BuilderComponent_Template(rf, ctx) { if (rf & 1) {
+BuilderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BuilderComponent, selectors: [["app-builder"]], decls: 110, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/builder/builder_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], ["role", "progressbar", "aria-valuenow", "20", "aria-valuemin", "0", "aria-valuemax", "20", 1, "progress-bar", 2, "width", "20%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["href", "assets/images/projects/builder/landing_page.png", "target", "_blank"], ["src", "assets/images/projects/builder/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "mb-5"], [1, "container"]], template: function BuilderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1135,7 +1135,7 @@ class ProjectManagerComponent {
     }
 }
 ProjectManagerComponent.ɵfac = function ProjectManagerComponent_Factory(t) { return new (t || ProjectManagerComponent)(); };
-ProjectManagerComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProjectManagerComponent, selectors: [["app-project-manager"]], decls: 91, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/project_manager/project_manager_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "80", "aria-valuemin", "0", "aria-valuemax", "80", 1, "progress-bar", 2, "width", "80%"], ["role", "progressbar", "aria-valuenow", "20", "aria-valuemin", "0", "aria-valuemax", "20", 1, "progress-bar", 2, "width", "20%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "../../../../assets/images/projects/project_manager/diagram_blur.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], [1, "mb-5"], [1, "container"]], template: function ProjectManagerComponent_Template(rf, ctx) { if (rf & 1) {
+ProjectManagerComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProjectManagerComponent, selectors: [["app-project-manager"]], decls: 91, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/project_manager/project_manager_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "80", "aria-valuemin", "0", "aria-valuemax", "80", 1, "progress-bar", 2, "width", "80%"], ["role", "progressbar", "aria-valuenow", "20", "aria-valuemin", "0", "aria-valuemax", "20", 1, "progress-bar", 2, "width", "20%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "assets/images/projects/project_manager/diagram_blur.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], [1, "mb-5"], [1, "container"]], template: function ProjectManagerComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1301,7 +1301,7 @@ class DevsUtilitiesComponent {
     }
 }
 DevsUtilitiesComponent.ɵfac = function DevsUtilitiesComponent_Factory(t) { return new (t || DevsUtilitiesComponent)(); };
-DevsUtilitiesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DevsUtilitiesComponent, selectors: [["app-devs-utilities"]], decls: 119, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/devs_utilities/devs_utilities_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "text-hidden"], [1, "project-explanation", "mt-5"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "../../../../assets/images/projects/devs_utilities/diagram_blur_1.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], ["src", "../../../../assets/images/projects/devs_utilities/diagram_blur_2.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "mb-5"], [1, "container"]], template: function DevsUtilitiesComponent_Template(rf, ctx) { if (rf & 1) {
+DevsUtilitiesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DevsUtilitiesComponent, selectors: [["app-devs-utilities"]], decls: 119, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/devs_utilities/devs_utilities_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "text-hidden"], [1, "project-explanation", "mt-5"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "assets/images/projects/devs_utilities/diagram_blur_1.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], ["src", "assets/images/projects/devs_utilities/diagram_blur_2.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "mb-5"], [1, "container"]], template: function DevsUtilitiesComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1553,107 +1553,107 @@ class SkillsComponent {
         ];
         this.skills = [
             {
-                image: '../../../assets/images/icons/java.png',
+                image: 'assets/images/icons/java.png',
                 name: 'java'
             },
             {
-                image: '../../../assets/images/icons/python.png',
+                image: 'assets/images/icons/python.png',
                 name: 'python'
             },
             {
-                image: '../../../assets/images/icons/spring.png',
+                image: 'assets/images/icons/spring.png',
                 name: 'spring'
             },
             {
-                image: '../../../assets/images/icons/angular.png',
+                image: 'assets/images/icons/angular.png',
                 name: 'angular'
             },
             {
-                image: '../../../assets/images/icons/bootstrap.png',
+                image: 'assets/images/icons/bootstrap.png',
                 name: 'bootstrap'
             },
             {
-                image: '../../../assets/images/icons/git.png',
+                image: 'assets/images/icons/git.png',
                 name: 'git'
             },
             {
-                image: '../../../assets/images/icons/github.png',
+                image: 'assets/images/icons/github.png',
                 name: 'github'
             },
             {
-                image: '../../../assets/images/icons/eclipse.png',
+                image: 'assets/images/icons/eclipse.png',
                 name: 'eclipse'
             },
             {
-                image: '../../../assets/images/icons/intellij.png',
+                image: 'assets/images/icons/intellij.png',
                 name: 'intellij'
             },
             {
-                image: '../../../assets/images/icons/docker.png',
+                image: 'assets/images/icons/docker.png',
                 name: 'docker'
             },
             {
-                image: '../../../assets/images/icons/php.png',
+                image: 'assets/images/icons/php.png',
                 name: 'php'
             },
             {
-                image: '../../../assets/images/icons/laravel.png',
+                image: 'assets/images/icons/laravel.png',
                 name: 'laravel'
             },
             {
-                image: '../../../assets/images/icons/composer.png',
+                image: 'assets/images/icons/composer.png',
                 name: 'composer'
             },
             {
-                image: '../../../assets/images/icons/android.png',
+                image: 'assets/images/icons/android.png',
                 name: 'android'
             },
             {
-                image: '../../../assets/images/icons/gradle.png',
+                image: 'assets/images/icons/gradle.png',
                 name: 'gradle'
             },
             {
-                image: '../../../assets/images/icons/html.png',
+                image: 'assets/images/icons/html.png',
                 name: 'html'
             },
             {
-                image: '../../../assets/images/icons/css.png',
+                image: 'assets/images/icons/css.png',
                 name: 'css'
             },
             {
-                image: '../../../assets/images/icons/javascript.webp',
+                image: 'assets/images/icons/javascript.webp',
                 name: 'javascript'
             },
             {
-                image: '../../../assets/images/icons/linux.png',
+                image: 'assets/images/icons/linux.png',
                 name: 'linux'
             },
             {
-                image: '../../../assets/images/icons/ubuntu.png',
+                image: 'assets/images/icons/ubuntu.png',
                 name: 'ubuntu'
             },
             {
-                image: '../../../assets/images/icons/vue.webp',
+                image: 'assets/images/icons/vue.webp',
                 name: 'vue'
             },
             {
-                image: '../../../assets/images/icons/node.png',
+                image: 'assets/images/icons/node.png',
                 name: 'node'
             },
             {
-                image: '../../../assets/images/icons/puppeteer.png',
+                image: 'assets/images/icons/puppeteer.png',
                 name: 'node'
             },
             {
-                image: '../../../assets/images/icons/mysql.png',
+                image: 'assets/images/icons/mysql.png',
                 name: 'mysql'
             },
             {
-                image: '../../../assets/images/icons/oracle.png',
+                image: 'assets/images/icons/oracle.png',
                 name: 'oracle'
             },
             {
-                image: '../../../assets/images/icons/hibernate.png',
+                image: 'assets/images/icons/hibernate.png',
                 name: 'hibernate'
             }
         ];
@@ -1744,7 +1744,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 38, vars: 0, consts: [["id", "home", 1, "intro", "route", "bg-image-top"], [1, "overlay-itro"], [1, "intro-content", "display-table"], [1, "table-cell"], [1, "container"], [1, "row"], [1, "offset-3", "col-6", "offset-md-5", "col-md-2"], ["src", "/assets/images/main_avatar.jpeg", "alt", "", 1, "img-fluid", "rounded-circle", "mb-3"], [1, "intro-title", "mb-2"], [1, "intro-subtitle", "mb-4"], ["href", "mailto:isc.villa.reyes.miguel@gmail.com", "target", "_blank"], [1, "fas", "fa-envelope-open"], [1, "dot", "white-color"], ["href", "https://www.linkedin.com/in/villa-reyes-miguel-angel/", "target", "_blank"], [1, "fab", "fa-linkedin-in"], ["href", "https://github.com/ISCMiguelVilla", "target", "_blank"], [1, "fab", "fa-github"], ["href", "https://twitter.com/ISCMiguelVilla", "target", "_blank"], [1, "fab", "fa-twitter"], ["href", "https://www.instagram.com/isc.miguel.villa", "target", "_blank"], [1, "fab", "fa-instagram"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 38, vars: 0, consts: [["id", "home", 1, "intro", "route", "bg-image-top"], [1, "overlay-itro"], [1, "intro-content", "display-table"], [1, "table-cell"], [1, "container"], [1, "row"], [1, "offset-3", "col-6", "offset-md-5", "col-md-2"], ["src", "assets/images/main_avatar.jpeg", "alt", "", 1, "img-fluid", "rounded-circle", "mb-3"], [1, "intro-title", "mb-2"], [1, "intro-subtitle", "mb-4"], ["href", "mailto:isc.villa.reyes.miguel@gmail.com", "target", "_blank"], [1, "fas", "fa-envelope-open"], [1, "dot", "white-color"], ["href", "https://www.linkedin.com/in/villa-reyes-miguel-angel/", "target", "_blank"], [1, "fab", "fa-linkedin-in"], ["href", "https://github.com/ISCMiguelVilla", "target", "_blank"], [1, "fab", "fa-github"], ["href", "https://twitter.com/ISCMiguelVilla", "target", "_blank"], [1, "fab", "fa-twitter"], ["href", "https://www.instagram.com/isc.miguel.villa", "target", "_blank"], [1, "fab", "fa-instagram"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1928,7 +1928,7 @@ class DatabaseHelperComponent {
     }
 }
 DatabaseHelperComponent.ɵfac = function DatabaseHelperComponent_Factory(t) { return new (t || DatabaseHelperComponent)(); };
-DatabaseHelperComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DatabaseHelperComponent, selectors: [["app-database-helper"]], decls: 94, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/database_helper/database_helper_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "../../../../assets/images/projects/database_helper/diagram_blur.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], [1, "mb-5"], [1, "container"]], template: function DatabaseHelperComponent_Template(rf, ctx) { if (rf & 1) {
+DatabaseHelperComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DatabaseHelperComponent, selectors: [["app-database-helper"]], decls: 94, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/database_helper/database_helper_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "assets/images/projects/database_helper/diagram_blur.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption", "text-hidden"], [1, "mb-5"], [1, "container"]], template: function DatabaseHelperComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2173,7 +2173,7 @@ class AccountantComponent {
     }
 }
 AccountantComponent.ɵfac = function AccountantComponent_Factory(t) { return new (t || AccountantComponent)(); };
-AccountantComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AccountantComponent, selectors: [["app-accountant"]], decls: 111, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "../../../../assets/images/projects/accountant/accountant_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "../../../../assets/images/projects/accountant/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "mb-5"], [1, "container"]], template: function AccountantComponent_Template(rf, ctx) { if (rf & 1) {
+AccountantComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AccountantComponent, selectors: [["app-accountant"]], decls: 111, vars: 0, consts: [[1, "container", "margin-navbar"], [1, "row", "justify-content-center"], [1, "col-12", "col-xl-10"], [1, "card", "mt-5", "p-5", "box-shadow-full"], [1, "row", "mb-3"], [1, "col-sm-12", "col-lg-6"], ["src", "assets/images/projects/accountant/accountant_portfolio.png", "alt", "banner", 1, "img-fluid", "rounded"], [1, "title-left", "mb-4", "pt-4", "pt-lg-0"], [1, "lead-custome"], [1, "row"], [1, "col-sm-12", "col-lg-6", "skill-mf"], [1, "title-s"], [1, "pull-right"], [1, "progress"], ["role", "progressbar", "aria-valuenow", "100", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", 2, "width", "100%"], [1, "about-info"], [1, "project-explanation", "mt-5"], [1, "text-hidden"], [1, "col-12", "offset-md-2", "col-md-8", "text-center"], [1, "figure"], ["src", "assets/images/projects/accountant/landing_page.png", "alt", "", 1, "figure-img", "img-fluid", "img-thumbnail"], [1, "figure-caption"], [1, "mb-5"], [1, "container"]], template: function AccountantComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2502,7 +2502,7 @@ class PortfolioComponent {
                 highlight: true,
                 technologies: 'Java | Spring Boot | Angular',
                 description: 'Crea el código que te gustaría que existiera sin siquiera escribir.',
-                image: '../../../assets/images/projects/builder/builder_portfolio.png'
+                image: 'assets/images/projects/builder/builder_portfolio.png'
             },
             {
                 title: 'Accountant',
@@ -2511,7 +2511,7 @@ class PortfolioComponent {
                 highlight: false,
                 technologies: 'Java | Spring Boot | Thymeleaf',
                 description: 'Seguimiento a tu contabilidad, registra tus ingresos y egresos.',
-                image: '../../../assets/images/projects/accountant/accountant_portfolio.png'
+                image: 'assets/images/projects/accountant/accountant_portfolio.png'
             },
             {
                 title: 'ProjectManager',
@@ -2520,7 +2520,7 @@ class PortfolioComponent {
                 highlight: false,
                 technologies: 'NodeJS | Puppeteer',
                 description: 'Compila, despliega (en Jenkins) y prueba un API en un solo click.',
-                image: '../../../assets/images/projects/project_manager/project_manager_portfolio.png'
+                image: 'assets/images/projects/project_manager/project_manager_portfolio.png'
             },
             {
                 title: 'DevsUtilities',
@@ -2529,7 +2529,7 @@ class PortfolioComponent {
                 highlight: false,
                 technologies: 'Java | Maven',
                 description: 'Programa y ejecuta tus actividades más fácil y rápido.',
-                image: '../../../assets/images/projects/devs_utilities/devs_utilities_portfolio.png'
+                image: 'assets/images/projects/devs_utilities/devs_utilities_portfolio.png'
             },
             {
                 title: 'DatabaseHelper',
@@ -2538,7 +2538,7 @@ class PortfolioComponent {
                 highlight: false,
                 technologies: 'Java | Spring Boot | DrawIO',
                 description: 'Crea tus entidades Hibernate a partir del diagrama ER.',
-                image: '../../../assets/images/projects/database_helper/database_helper_portfolio.png'
+                image: 'assets/images/projects/database_helper/database_helper_portfolio.png'
             },
             {
                 title: 'ASOBuilder',
@@ -2547,7 +2547,7 @@ class PortfolioComponent {
                 highlight: true,
                 technologies: 'Java | Spring Boot | Thymeleaf',
                 description: 'Crea APIs sin programar a partir de su definicion.',
-                image: '../../../assets/images/projects/aso_builder/aso_builder_portfolio.png'
+                image: 'assets/images/projects/aso_builder/aso_builder_portfolio.png'
             }
         ];
     }
