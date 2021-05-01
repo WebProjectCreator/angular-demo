@@ -2115,7 +2115,7 @@ const APP_ROUTES = [
     { path: 'builder', component: _components_projects_builder_builder_component__WEBPACK_IMPORTED_MODULE_7__["BuilderComponent"] },
     { path: '**', pathMatch: 'full', redirectTo: 'home' },
 ];
-const APP_ROUTING = _angular_router__WEBPACK_IMPORTED_MODULE_0__["RouterModule"].forRoot(APP_ROUTES, { useHash: true });
+const APP_ROUTING = _angular_router__WEBPACK_IMPORTED_MODULE_0__["RouterModule"].forRoot(APP_ROUTES, { useHash: true, scrollPositionRestoration: 'enabled' });
 
 
 /***/ }),
