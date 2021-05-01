@@ -28,7 +28,7 @@
         text-align: left;
     }
 
-    .course-row {
+    .course-row.divider {
         border-bottom: 1px solid #ccc;
         margin-top: 16px;
     }
